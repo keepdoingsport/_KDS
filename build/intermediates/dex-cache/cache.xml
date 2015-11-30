@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\classes-0e88272f52f76085693acae8c112a1471b6a91d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\classes-bf0d2bc63237cef02a8b6b538f6211a188876f23.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\exploded-aar\me.imid.swipebacklayout.lib\library\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6d0958dbac8e7be76690b8e85d91698dfadbd81e">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\classes-5712fc26b651b9d8d94f8e61caf0f3868775d1a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\classes-befc89dda227f0d5b205073b8a6398efa3ce4982.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.8\77bbfe240e437ecb396d982afa0d3bd4f9090ba7\android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8-bbdce459db4b60de202bd75e931d5a178f41d03f.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-04be9b3120f36acb23e6fdd4c89bd93539b8c262.jar" />
+    </item>
+    <item
+        jar="F:\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-0e20b52e29278e8d940d45839509105bac6a8435.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\exploded-aar\com.orhanobut\logger\1.10\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="52723f7afc22f9a07045b861fa08e7f094ed9f66">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\classes-f33c968291d949025e1aa56be68db6a9a66688e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-ac21aabf8689fa14a9fc2ff568f3b3a55beb33eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\classes-d0ceecd9cccc249a16b86e2c66e674f33573ced7.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\classes-439f881e5ec9dce964695fb73e60c90f7f38d1c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\volley-4c8ab341ecb29706adcaa17cd6a85fa25e0b8450.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\exploded-aar\com.soundcloud.android\android-crop\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7d59ba36bdb53bd81f4d16ed7e2abb47de5c53bd">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\classes-0293ac40ad398c1ac9ef57174ee8ca2e3edf977a.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\classes-48cc907e764354435af92a29e082bfaebe0cfdf9.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\classes-e8d853cb5a21020530680cca7804f7d5b7c853f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\libs\SMSSDK-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0951da1e350144289581921fcc3570cc3aeac48a">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\SMSSDK-1.3.1-92693b8dac37682b52bc8f9ac3518dc083d2edee.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\classes-50e738b88110f31593bd1476e08130056f435bd9.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\glide-3.6.1-2168e7f53fa3b93b6d41abbe556e182415bdec39.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\libs\MobTools.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="23e791d96579e8c56fd11f1912130ff93c2d6289">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\MobTools-3ebaeaa128e839f1b6861053359eca01d083ac2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\libs\MobLogCollector.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0488dc80a5addc72b2fcb515f792a130c164ab5f">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\MobLogCollector-f80d1777a5b63fd1b081ccb6fb4462c337f51979.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\classes-975ac315e4c2f474dccda914941eb715789b9f56.jar" />
+    </item>
+    <item
+        jar="C:\Users\pokp7_000\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\pokp7_000\Documents\GitHub\KDS\app\build\intermediates\pre-dexed\debug\gson-2.3-8a02cbde051552a2c512debced02895f64d304ac.jar" />
+    </item>
+
+</items>

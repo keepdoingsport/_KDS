@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/reg_coordinatorLayout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="注册"
+            android:textSize="50dp"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/reg_user"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:hint="用户名"
+            android:textColorHint="#B6B6B6"/>
+
+        <EditText
+            android:id="@+id/reg_pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:hint="输入密码"
+            android:textColorHint="#B6B6B6"
+            android:password="true"/>
+
+        <EditText
+            android:id="@+id/reg_again"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="再次输入密码"
+            android:textColorHint="#B6B6B6"
+            android:password="true"/>
+
+        <EditText
+            android:id="@+id/reg_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:hint="验证手机号"
+            android:textColorHint="#B6B6B6"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false">
+
+            <EditText
+                android:id="@+id/reg_code"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="9dp"/>
+            <Button
+                android:id="@+id/reg_test"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="获取短信验证码" />
+        </LinearLayout>
+
+        <CheckBox
+            android:id="@+id/reg_check"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="我已经阅读并同意网站的使用条件及隐私声明。"
+            android:textSize="10dp"/>
+
+        <Button
+            android:id="@+id/reg_reg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="注册" />
+        <Button
+            android:id="@+id/reg_return"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="返回"/>
+
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

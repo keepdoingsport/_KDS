@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/log_coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="登录"
+            android:textSize="50dp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/et_user"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="70dp"
+            android:hint="用户名/手机号"
+            android:textColorHint="#B6B6B6" />
+
+        <EditText
+            android:id="@+id/et_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:hint="密码"
+            android:textColorHint="#B6B6B6"
+            android:password="true" />
+
+        <CheckBox
+            android:id="@+id/show_pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="显示密码" />
+
+        <Button
+            android:id="@+id/log_log"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="登录" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="-------新用户?------"
+            android:gravity="center"
+            android:textSize="15sp"
+            android:textColor="#B6B6B6"/>
+
+        <Button
+            android:id="@+id/log_reg"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="注册"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:padding="@dimen/navigation_padding_bottom"
+            android:text="忘记密码？"/>
+
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>
